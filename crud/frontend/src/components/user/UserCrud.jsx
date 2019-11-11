@@ -1,4 +1,4 @@
-import React, { Compont } from 'react'
+import React, { Component } from 'react'
 import Main from '../template/Main'
 
 const headerProps = {
@@ -7,7 +7,7 @@ const headerProps = {
     subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
 }
 
-export default class UserCrud extends Compont {
+export default class UserCrud extends Component {
     render() {
         return (
             <Main {...headerProps}>
