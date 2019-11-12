@@ -1,11 +1,29 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Arthur Oliveira",
-        "email": "aoliveira@cod3r.com.br"
-    }, {
-        "id": 2,
-        "name": "Maria Julia da Silva",
-        "email": "mjds@empresa.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "anderson dos santos de barros",
+      "email": "anderson.santos@hetikos.com.br",
+      "id": 3
+    },
+    {
+      "name": "joao da silva",
+      "email": "jsilva@hotmail.com.br",
+      "id": 4
+    },
+    {
+      "name": "ana",
+      "email": "ana@gmail.com",
+      "id": 5
+    }
+  ]
 }
